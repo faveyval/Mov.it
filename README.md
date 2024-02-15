@@ -1,2 +1,2 @@
 # Mov.it
-a buy and sel website.
+a buy and sell website.
