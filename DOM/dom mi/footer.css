@@ -1,0 +1,10 @@
+
+/* blog */
+.ap1 {
+    color: green;
+}
+/* footer */
+.footer-md {
+    display: flex;
+    justify-content: space-around;
+}
